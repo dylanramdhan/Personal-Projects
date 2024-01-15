@@ -11,5 +11,5 @@ To play the game, it only
 
 
 ### Reference
-[Making Pong with Python!](https://www.youtube.com/watch?v=vVGTZlnnX3U)
+[Making Pong with Python!](https://www.youtube.com/watch?v=vVGTZlnnX3U) <br>
 [Pygame](https://github.com/pygame/pygame)
