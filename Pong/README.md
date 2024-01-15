@@ -9,8 +9,8 @@ Atari's **Pong** is an ultimate classic 1970s game that replicates the game of t
 
 ### Instructions
 To play the game, it only requires to two keys to maneuver the two paddles. There are two players: *Left Player* & *Right Player*. To move the paddles: <br>
-- *Right Player* <br>
-    - **Up** Key (moves up) <br>
+- *Right Player*
+    - **Up** Key (moves up)
     - **Down** Key (moves down) <br>
 
 - *Left Player* <br>
