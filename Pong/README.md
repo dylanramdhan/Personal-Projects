@@ -1,7 +1,9 @@
 # P🏓ng
-descriotion
+description
 
-<img src="/README Files/pong.gif" width="250" height="250"/>
+<p align = "center">
+<img src = "./README Files/pong.gif" width = "70%">
+</p>
 
 
 ### asdads
