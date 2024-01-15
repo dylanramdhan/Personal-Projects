@@ -2,7 +2,7 @@
 description
 
 <p align = "center">
-<img src = "./README Files/pong.gif" width = "70%">
+<img src = "./README Files/pong.gif" width = "50%">
 </p>
 
 
