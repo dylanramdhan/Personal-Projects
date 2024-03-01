@@ -23,6 +23,6 @@ To move the paddles: <br>
     - **W** Key (moves down) <br>
 
 
-### Reference
+### References
 [Making Pong with Python!](https://www.youtube.com/watch?v=vVGTZlnnX3U) <br>
 [Pygame](https://github.com/pygame/pygame)
