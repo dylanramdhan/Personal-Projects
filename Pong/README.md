@@ -24,5 +24,5 @@ To move the paddles: <br>
 
 
 ### References
-[1. Making Pong with Python!](https://www.youtube.com/watch?v=vVGTZlnnX3U) <br>
-[2. Pygame](https://github.com/pygame/pygame)
+1.[Making Pong with Python!](https://www.youtube.com/watch?v=vVGTZlnnX3U) <br>
+2.[Pygame](https://github.com/pygame/pygame)
